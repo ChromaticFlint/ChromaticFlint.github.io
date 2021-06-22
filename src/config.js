@@ -4,23 +4,23 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/ChromaticFlint',
+      url: 'https://github.com/bchiang7',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/',
+      url: 'https://www.instagram.com/bchiang7',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/_stormforged_',
+      url: 'https://twitter.com/bchiang7',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/storm-otis-37094ab6/',
+      url: 'https://www.linkedin.com/in/bchiang7',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/',
+      url: 'https://codepen.io/bchiang7',
     },
   ],
 

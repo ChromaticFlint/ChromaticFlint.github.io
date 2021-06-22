@@ -1,12 +1,14 @@
 ---
-date: '2'
-title: 'Prototype 3 - Placeholder'
-cover: './proto3.png'
-github: 'https://github.com/'
-external: 'https://play.unity.com/mg/other/webgl-builds-53965'
+date: '3'
+title: 'OctoProfile'
+cover: './octoprofile.png'
+github: 'https://github.com/bchiang7/octoprofile'
+external: 'https://octoprofile.now.sh'
 tech:
-  - Unity
+  - Next.js
+  - Chart.js
+  - GitHub API
 showInProjects: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.

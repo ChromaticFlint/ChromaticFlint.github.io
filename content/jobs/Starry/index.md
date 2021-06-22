@@ -1,14 +1,12 @@
 ---
-date: '2019-11-04'
-title: 'Security Engineer'
-company: 'Total Expert'
-location: 'St. Louis Park, MN'
-range: 'May 2017 - November 2018'
-url: 'https://totalexpert.com/'
+date: '2016-12-21'
+title: 'Software Engineer Co-op'
+company: 'Starry'
+location: 'Boston, MA'
+range: 'July - December 2016'
+url: 'https://starry.com/'
 ---
 
-- Engineered and maintained security automation suite for Total Expert's CRM using Python and Selenium
-- Mentored and helped managed the quality engineering team across multiple workstreams
-- Administered and managed JIRA workflows across business and development work areas
-- Performed penetration testing across Total Expert's CRM
-- Interfaced with user experience designers, developers, and the devops team to ensure security and quality was considered through the development lifecycle
+- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
+- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
+- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps

@@ -1,13 +1,12 @@
 ---
-date: '2014-03-30'
-title: 'Senior Quality Assurance Tester'
-company: 'Activision'
-location: 'Santa Monica, CA'
-range: 'June 2010 - March 2014'
-url: 'https://www.activision.com/home'
+date: '2015-12-21'
+title: 'Creative Technologist Co-op'
+company: 'MullenLowe'
+location: 'Boston, MA'
+range: 'July - December 2015'
+url: 'https://us.mullenlowe.com/'
 ---
 
-- Created alpha, beta, and release test plans for AA and AAA video game titles
-- Led team of Quality Assurance Engineers through various projects and requirements
-- Worked directly with development to provide guidance for identified issues
-- Researched and created new testing procedures to improve testing efficiency
+- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
+- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
+- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
