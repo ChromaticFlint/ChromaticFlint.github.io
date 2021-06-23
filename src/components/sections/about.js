@@ -135,19 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Heyas! My name is Storm and I enjoy creating, and testing things in games and on the internet.
+              Heya! My name is Storm and I enjoy creating, and testing things in games and on the internet.
               orem ipsum dolor sit amet, consectetur adipiscing elit,
               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
+              To this date, and I've had the privilege of working at{' '}
               <a href="https://www.activision.com/home">a video game publishing company</a>,{' '}
-              <a href="https://www.nerdery.com/">a custom software development shop</a>,{' '}
+              <a href="https://www.nerdery.com/">a custom development shop</a>,{' '}
               <a href="https://totalexpert.com/">a start up</a>, and{' '}
-              <a href="https://www.ostusa.com/">a consultancy</a>. My
-              main focus these days is learning new skills, and building games during a sabbatical with <a href="https://www.linkedin.com/in/storm-otis-37094ab6/">Storm Forged</a>.
+              <a href="https://www.ostusa.com/">a consultancy</a>. Recently my main focus is learning new skills, and building games during a sabbatical with <a href="https://www.linkedin.com/in/storm-otis-37094ab6/">Storm Forged</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

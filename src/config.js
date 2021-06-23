@@ -6,10 +6,10 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/ChromaticFlint',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/',
+    // },
     {
       name: 'Twitter',
       url: 'https://twitter.com/_stormforged_',
@@ -18,10 +18,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/storm-otis-37094ab6/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/',
+    // },
   ],
 
   navLinks: [
