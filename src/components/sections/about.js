@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Heya, My name is Storm and I enjoy creating and testing things within games and on the internet.
+              I enjoy creating, and testing games, web applications, hardware, and puzzles.
               My background was previously in Quality Engineering, but I am hoping to shift towards video game development and design. Outside of tech I enjoy spinning and juggling poi *<i>sometimes even on fire</i>*, solving Rubik's cubes, drawing, and hiking.
             </p>
 
