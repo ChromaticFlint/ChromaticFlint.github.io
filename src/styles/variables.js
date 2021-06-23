@@ -13,9 +13,8 @@ const variables = css`
     --lightest-slate: #ccd6f6;
     --white: #e6f1ff;
     //--green: #64ffda;
-    --green: #2DC7FF;
-    // --green-tint: rgba(100, 255, 218, 0.1);
-    --green-tint: rgba(50, 255, 244, 0.1);
+    --green: #2DC7FF; // actually blue, should refactor across codebase
+    --blue-tint: rgba(50, 255, 244, 0.1);
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
