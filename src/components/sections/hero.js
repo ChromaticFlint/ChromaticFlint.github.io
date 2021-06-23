@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things, and play games.</h3>;
   const four = (
     <p>
-      I'm a Minneapolis-based software engineer who specializes in building games. Currently, I'm on a sabbatical{' '}
+      I'm a Minneapolis-based software engineer who is interested in building games, and has a long history of software testing. Currently, I'm on a sabbatical{' '}
       <a href="https://www.linkedin.com/in/storm-otis-37094ab6/" target="_blank" rel="noreferrer">
         Storm Forged
       </a>{' '}
