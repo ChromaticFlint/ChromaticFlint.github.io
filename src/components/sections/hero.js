@@ -60,7 +60,7 @@ const Hero = () => {
 
   const one = <h1>Heyas, my name is</h1>;
   const two = <h2 className="big-heading">Storm Otis.</h2>;
-  const three = <h3 className="big-heading">I build things, and play games.</h3>;
+  const three = <h3 className="big-heading">I build things, and like to play games.</h3>;
   const four = (
     <p>
       I'm a Minneapolis-based software engineer who is interested in building games, and has a long history of software testing. Currently, I'm on a sabbatical working through some conceptual project with {' '}
