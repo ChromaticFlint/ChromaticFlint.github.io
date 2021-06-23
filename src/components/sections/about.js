@@ -136,9 +136,7 @@ const About = () => {
           <div>
             <p>
               Heya! My name is Storm and I enjoy creating and testing things within games and on the internet.
-              orem ipsum dolor sit amet, consectetur adipiscing elit,
-              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              My background was previously in Quality Engineering, but I am hoping to shift towards video game development and design. Outside of tech I enjoy spinning and juggling poi *<i>sometimes even on fire</i>*, solving Rubik's cubes, drawing, and hiking.
             </p>
 
             <p>
@@ -149,7 +147,7 @@ const About = () => {
               <a href="https://www.ostusa.com/">a consultancy</a>. Recently my main focus is learning new skills, and building games during a sabbatical with <a href="https://www.linkedin.com/in/storm-otis-37094ab6/">Storm Forged</a>.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>These are some of the technologies I've been working with recently:</p>
           </div>
 
           <ul className="skills-list">
