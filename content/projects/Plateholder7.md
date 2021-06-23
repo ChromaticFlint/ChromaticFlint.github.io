@@ -1,8 +1,10 @@
 ---
-date: '2021-06-18'
+date: '2010-06-18'
 title: 'Placeholder 7'
 github: 'potato'
 external: 'https://www.google.com'
+ios: 'https://www.google.com'
+android: 'https://www.google.com'
 tech:
   - Unity
   - Unreal
