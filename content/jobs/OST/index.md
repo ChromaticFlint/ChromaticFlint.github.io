@@ -1,7 +1,7 @@
 ---
 date: '2021-05-01'
 title: 'Quality Assurance Practice Lead'
-company: 'Open Systems Technologies'
+company: 'OST'
 location: 'Grand Rapids, MI'
 range: 'Nov 2018 - May 2021'
 url: 'https://www.ostusa.com/'
