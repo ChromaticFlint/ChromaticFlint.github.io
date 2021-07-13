@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Prototype 4'
 cover: './proto4.png'
 github: 'https://github.com/ChromaticFlint/'
