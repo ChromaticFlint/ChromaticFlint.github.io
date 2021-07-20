@@ -3,8 +3,8 @@ date: '1'
 title: 'Prototype 4'
 github: 'https://github.com/ChromaticFlint/'
 external: 'https://play.unity.com/mg/other/webgl-builds-56569'
-ios: './404'
-android: './404'
+ios: '../404'
+android: '../404'
 tech:
   - Unity
   - C#
