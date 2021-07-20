@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Light & Dialog Tests'
-cover: './lnd.png'
+cover: './lnd2.png'
 github: 'https://github.com/ChromaticFlint/dialog-prototype'
 external: 'https://play.unity.com/mg/other/webgl-builds-77020'
 tech:
