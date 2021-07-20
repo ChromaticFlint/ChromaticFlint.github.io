@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Clicky Food'
 cover: './clickyFood.png'
 github: 'https://github.com/ChromaticFlint/'
