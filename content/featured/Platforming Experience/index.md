@@ -2,7 +2,6 @@
 date: '3'
 title: 'Platforming Prototype'
 cover: './platforming-exp.png'
-github: 'https://github.com/ChromaticFlint/platformer-exp'
 external: 'https://play.unity.com/mg/other/webgl-builds-78496'
 tech:
   - Unity
