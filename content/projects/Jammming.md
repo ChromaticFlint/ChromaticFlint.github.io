@@ -9,4 +9,4 @@ company: 'NA'
 showInProjects: true
 ---
 
-Simple application that leverages the spotify api to allow a user to fetch and save playlists. Project developed through the Codecademy web development track.
+Simple application that leverages the Spotify api to allow a user to fetch and save playlists. Project developed through the Codecademy web development track.

@@ -135,8 +135,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I enjoy creating, and testing games, web applications, hardware, and puzzles.
-              My background was previously in Quality Engineering, but I am hoping to shift towards video game development and design. Outside of tech I enjoy spinning and juggling poi *<i>sometimes even on fire</i>*, solving Rubik's cubes, drawing, and hiking.
+              I enjoy creating and testing games, web applications, and puzzles.
+              My background was previously in Quality Engineering and security testing, but I am interested in exploring new skills in game development and game design. Outside of tech I enjoy spinning and juggling poi, solving Rubik's cubes, drawing, and hiking.
             </p>
 
             <p>

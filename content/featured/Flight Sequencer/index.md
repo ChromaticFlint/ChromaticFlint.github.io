@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Bullet Hell Flight Sequencer'
 cover: './flight.png'
 github: 'https://github.com/ChromaticFlint/flight-prototype'
