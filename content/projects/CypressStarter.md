@@ -5,7 +5,7 @@ github: 'https://github.com/ChromaticFlint/cypress-pom-starter'
 tech:
   - Typescript
   - Cypress
-company: 'NA'
+company: 'Personal'
 showInProjects: true
 ---
 

@@ -5,7 +5,7 @@ github: 'https://github.com/ChromaticFlint/python-selenium-pom-framework'
 tech:
   - Python
   - Selenium
-company: 'NA'
+company: 'Personal'
 showInProjects: true
 ---
 

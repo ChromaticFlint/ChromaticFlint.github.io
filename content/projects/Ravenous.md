@@ -5,7 +5,7 @@ github: 'https://github.com/ChromaticFlint/Ravenous'
 tech:
   - React
   - Javascript
-company: 'NA'
+company: 'Personal'
 showInProjects: true
 ---
 

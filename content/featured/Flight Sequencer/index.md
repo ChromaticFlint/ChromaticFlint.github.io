@@ -11,3 +11,5 @@ showInProjects: true
 ---
 
 Prototype project to test flight patterns for designing bullet hell waves. The goal was to learn how to store and retrieve enemy types, waves, patterns, and positions within UI elements.
+
+Click the image for Windows/MacOs web version of the prototype.

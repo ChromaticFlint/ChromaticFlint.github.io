@@ -6,7 +6,7 @@ external: 'https://play.unity.com/mg/other/webgl-builds-60367'
 tech:
   - Unity
   - C#
-company: 'NA'
+company: StormForged
 showInProjects: true
 ---
 

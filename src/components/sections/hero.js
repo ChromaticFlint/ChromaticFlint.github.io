@@ -58,12 +58,12 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Heyas, my name is</h1>;
+  const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Storm Otis.</h2>;
-  const three = <h3 className="big-heading">I build things, and like to play games.</h3>;
+  const three = <h3 className="big-heading">I build things and like to play games.</h3>;
   const four = (
     <p>
-      I'm a Minneapolis-based software engineer who is interested in building games, and has a strong history involved software testing. Currently, I am working independently through {' '}
+      I’m a Minneapolis based software engineer with a strong history of software testing and an interest in building games. Currently, I am working independently through {' '}
       <a href="https://www.linkedin.com/in/storm-otis-37094ab6/" target="_blank" rel="noreferrer">
         Storm Forged.
       </a>{' '}

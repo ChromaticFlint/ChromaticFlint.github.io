@@ -140,7 +140,7 @@ const About = () => {
             </p>
 
             <p>
-              To this date, and I've had the privilege of working at{' '}
+              To date I’ve had the privilege of working at{' '}
               <a href="https://www.activision.com/home">a video game publishing company</a>,{' '}
               <a href="https://www.nerdery.com/">a custom development shop</a>,{' '}
               <a href="https://totalexpert.com/">a start up</a>, and{' '}
