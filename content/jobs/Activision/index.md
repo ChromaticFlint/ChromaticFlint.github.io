@@ -3,7 +3,7 @@ date: '2014-03-30'
 title: 'Senior Quality Assurance Tester'
 company: 'Activision'
 location: 'Santa Monica, CA'
-range: 'June 2010 - March 2014'
+range: 'June 2010 - March 2013'
 url: 'https://www.activision.com/home'
 ---
 

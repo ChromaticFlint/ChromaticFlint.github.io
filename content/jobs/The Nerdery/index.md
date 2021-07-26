@@ -3,7 +3,7 @@ date: '2017-05-15'
 title: 'Security Analyst, Senior Quality Assurance Engineer'
 company: 'The Nerdery'
 location: 'Bloomington, MN'
-range: 'March 2014 - May 2017'
+range: 'March 2013 - May 2017'
 url: 'https://www.nerdery.com/'
 ---
 
