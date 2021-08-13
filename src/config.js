@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'brandon.s.otis@gmail.com',
+  email: 'storm@stormforged.io',
 
   socialMedia: [
     {
