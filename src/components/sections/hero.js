@@ -67,7 +67,7 @@ const Hero = () => {
       <a href="https://stormforged.io/" target="_blank" rel="noreferrer">
         StormForged.
       </a>{' '}
-      My goal is to focus on developing new skills in game programming, game design, and development best practices while building StormForged.
+      My goal is to focus on developing new skills in game programming, game design, and development best practices.
     </p>
   );
   const five = (
