@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C#', 'Unity', 'React', 'Python', 'Selenium', 'Cypress'];
+  const skills = ['C#', 'Java', 'Unity', 'React', 'Python', 'Selenium', 'Cypress'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,8 +135,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I enjoy creating and testing games, web applications, and puzzles.
-              My background was previously in Quality Engineering and security testing, but I am interested in exploring new skills in game development and game design. Outside of tech I enjoy spinning and juggling poi, solving Rubik's cubes, drawing, and hiking.
+              I enjoy creating and testing games, building web applications, and solving puzzles.
+              My background was previously in test engineering and ethical hacking, but I am currently interested in exploring new skills in game development and game design. Outside of tech I enjoy spinning and juggling poi, solving Rubik's cubes, drawing, and hiking.
             </p>
 
             <p>
@@ -144,7 +144,9 @@ const About = () => {
               <a href="https://www.activision.com/home">a video game publishing company</a>,{' '}
               <a href="https://www.nerdery.com/">a custom development shop</a>,{' '}
               <a href="https://totalexpert.com/">a start up</a>, and{' '}
-              <a href="https://www.ostusa.com/">a consultancy</a>. Recently my main focus is learning new skills and building out a game development studio at <a href="https://stormforged.io/">StormForged</a>.
+              <a href="https://www.ostusa.com/">a consultancy</a>, and{' '}
+              <a href="https://www.fantasyflightgames.com/en/index/">a game company</a>.
+              Recently my focus is learning new skills as a sofware engineer at <a href="https://www.capillarytech.com/">Persuade</a> and building out a mini personal game development studio called <a href="https://stormforged.io/">StormForged</a>.
             </p>
 
             <p>These are some of the technologies I've been working with recently:</p>

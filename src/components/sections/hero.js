@@ -63,11 +63,11 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things and like to play games.</h3>;
   const four = (
     <p>
-      I’m a Minneapolis based software engineer with a strong history of software testing and an interest in building games. Currently, I am working independently while building {' '}
+      I’m a Minneapolis based software engineer with a strong history of software testing and an interest in building games. Currently, I am working with {' '}<a href="https://www.capillarytech.com/" target="_blank" rel="noreferrer">Persuade</a>{' '} as a software engineer while independently building {' '}
       <a href="https://stormforged.io/" target="_blank" rel="noreferrer">
         StormForged.
       </a>{' '}
-      My goal is to focus on developing new skills in game programming, game design, and development best practices.
+      My goal is to continue to focus on developing new skills in programming, game design, and development best practices.
     </p>
   );
   const five = (
