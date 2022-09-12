@@ -146,7 +146,7 @@ const About = () => {
               <a href="https://totalexpert.com/">a start up</a>, and{' '}
               <a href="https://www.ostusa.com/">a consultancy</a>, and{' '}
               <a href="https://www.fantasyflightgames.com/en/index/">a game company</a>.
-              Recently my focus is learning new skills as a sofware engineer at <a href="https://www.capillarytech.com/">Persuade</a> and building out a mini personal game development studio called <a href="https://stormforged.io/">StormForged</a>.
+              Recently my focus is learning new skills as a sofware engineer at <a href="https://www.capillarytech.com/">Capillary</a> and building out a mini personal game development studio called <a href="https://stormforged.io/">StormForged</a>.
             </p>
 
             <p>These are some of the technologies I've been working with recently:</p>
