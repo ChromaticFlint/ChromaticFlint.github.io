@@ -1,5 +1,5 @@
 ---
-date: '2022-02-14'
+date: '2023-02-14'
 title: 'Independent Contractor'
 company: 'Infinity Forge'
 location: 'Minneapolis, MN'
