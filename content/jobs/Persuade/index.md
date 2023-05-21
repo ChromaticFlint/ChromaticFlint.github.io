@@ -3,7 +3,7 @@ date: '2022-02-14'
 title: 'Software Engineer'
 company: 'Capillary'
 location: 'Minneapolis, MN'
-range: 'Current'
+range: 'Feburary 2022 - Feburary 2023'
 url: 'https://www.capillarytech.com/'
 ---
 
